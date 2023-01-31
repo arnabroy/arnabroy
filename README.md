@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnabroy
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning about Startups
+- 🌱 I’m currently learning about public cloud migration, machine learning and startups
 - 💞️ I’m looking to collaborate on any interesting startup idea
 - 📫 You can reach me at 'arnabroy.007@gmail.com'
 
