@@ -3,7 +3,7 @@
 - 👀 I’m interested in reliability and hacking
 - 🌱 I’m currently learning about public cloud migration, machine learning and startups
 - 💞️ I’m looking to collaborate on any interesting open source projects
-- 📫 You can reach me at 'arnabroy.007@gmail.com'
+- 📫 You can reach me at 'arnabroy@outlook.com'
 
 <!---
 arnabroy/arnabroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
