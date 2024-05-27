@@ -1,8 +1,7 @@
 # Few words about Arnab
 - 👋 Hi, I’m @arnabroy
-- 👀 I’m interested in startups and site reliability engineering
-- 🌱 I’m currently learning about public cloud development, migration, machine learning, generative AI in my spare time
-- 💞️ I’m looking to collaborate on any interesting projects
+- 🌱 I’m currently learning about performance and capacity engineering, public cloud miration and development, machine learning, generative AI in my spare time
+- 💞️ I’m looking to collaborate on any interesting open source projects
 - 📫 You can reach me at 'arnabroy@outlook.com'
 
 <!---
